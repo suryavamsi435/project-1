@@ -12,6 +12,8 @@ header {
 }
 .head{
     background-color:white;
+    font-weight:bold;
+    color:white;
 }
 footer {
     background-color: #333;
